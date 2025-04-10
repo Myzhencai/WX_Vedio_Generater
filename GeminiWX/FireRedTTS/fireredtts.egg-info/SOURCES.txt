@@ -1,0 +1,7 @@
+LICENSE
+README.md
+setup.py
+fireredtts.egg-info/PKG-INFO
+fireredtts.egg-info/SOURCES.txt
+fireredtts.egg-info/dependency_links.txt
+fireredtts.egg-info/top_level.txt
